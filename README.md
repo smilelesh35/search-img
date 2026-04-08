@@ -1,3 +1,5 @@
+💻 My First Fetch Project
+
 🚀 What I Learned
 - Using fetch() to get data from an API
 - Creating elements dynamically with JavaScript
